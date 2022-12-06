@@ -71,11 +71,11 @@ string WorkHoliday(int a)
     {
         if (a == 7 || a == 6)
         {
-            Console.Write("Под цифрой " + a + " - Выходной");
+            Console.Write("Под цифрой " + a + " - Да-Выходной!!!");
         }
         else
         {
-            Console.Write("Под цифрой " + a + " - Рабочий");
+            Console.Write("Под цифрой " + a + " - Нет-Рабочий ;(((");
         }
     }
     else

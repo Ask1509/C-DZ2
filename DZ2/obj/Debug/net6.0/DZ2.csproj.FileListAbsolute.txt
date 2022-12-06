@@ -1,0 +1,15 @@
+D:\Git проекты\C#\DZ2\DZ2\obj\Debug\net6.0\DZ2.csproj.AssemblyReference.cache
+D:\Git проекты\C#\DZ2\DZ2\obj\Debug\net6.0\DZ2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git проекты\C#\DZ2\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfoInputs.cache
+D:\Git проекты\C#\DZ2\DZ2\obj\Debug\net6.0\DZ2.AssemblyInfo.cs
+D:\Git проекты\C#\DZ2\DZ2\obj\Debug\net6.0\DZ2.csproj.CoreCompileInputs.cache
+D:\Git проекты\C#\DZ2\DZ2\bin\Debug\net6.0\DZ2.exe
+D:\Git проекты\C#\DZ2\DZ2\bin\Debug\net6.0\DZ2.deps.json
+D:\Git проекты\C#\DZ2\DZ2\bin\Debug\net6.0\DZ2.runtimeconfig.json
+D:\Git проекты\C#\DZ2\DZ2\bin\Debug\net6.0\DZ2.dll
+D:\Git проекты\C#\DZ2\DZ2\bin\Debug\net6.0\DZ2.pdb
+D:\Git проекты\C#\DZ2\DZ2\obj\Debug\net6.0\DZ2.dll
+D:\Git проекты\C#\DZ2\DZ2\obj\Debug\net6.0\refint\DZ2.dll
+D:\Git проекты\C#\DZ2\DZ2\obj\Debug\net6.0\DZ2.pdb
+D:\Git проекты\C#\DZ2\DZ2\obj\Debug\net6.0\DZ2.genruntimeconfig.cache
+D:\Git проекты\C#\DZ2\DZ2\obj\Debug\net6.0\ref\DZ2.dll
